@@ -1,0 +1,6 @@
+p1, George Washington, 1000 President St, stomach pain, hangover, 2001, B+
+p2, John Adams, 234 Home Rd, headache, migranie, 2002, AB+
+p3, Gracie Freebush, 54 Spooner St, side pain, liver failure, 2003, O-
+p4, Phil Colins, 100 Music Cir, vomitting, stomach bug, 2004, B-
+p5, Mr. Roboto, 9999 Winter Sun Rd, pain in leg, broken leg, 2005, AB-
+p6, RW, 2000 Hilltop Cir, face pain, ugly, 2006, O+
